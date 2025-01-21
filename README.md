@@ -1,4 +1,6 @@
-# Messaging App for Android
+app/src/main/res/drawable/chattie_logo.png
+
+# Messaging App for Android (Chattie)
 
 A simple and secure messaging app for Android that allows users to send and receive messages in real-time. Built with modern Android development practices and designed for ease of use.
 
