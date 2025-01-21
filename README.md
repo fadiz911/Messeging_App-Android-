@@ -1,4 +1,4 @@
-app/src/main/res/drawable/chattie_logo.png
+![App Screenshot](app/src/main/res/drawable/chattie_logo.png)
 
 # Messaging App for Android (Chattie)
 
