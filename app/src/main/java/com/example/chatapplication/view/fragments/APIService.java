@@ -24,6 +24,7 @@ public interface APIService {
     Call<MyResponse> sendNotification(@Body Sender body);
 
     // Method for uploading files
+
     @Multipart
     @POST("upload") // Corrected endpoint
     Call<ResponseBody> uploadFile(
